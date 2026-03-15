@@ -31,7 +31,11 @@
     "typescript",
     "nodejs",
     "optimization",
-    "web"
+    "web",
+    "ai-search-optimization",
+    "geo",
+    "core-web-vitals-2026",
+    "inp"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
