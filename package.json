@@ -42,7 +42,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-prefetch#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-prefetch"
+    "url": "git+https://github.com/LXGIC-Studios/ai-prefetch.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-prefetch/issues"
