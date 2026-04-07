@@ -1,5 +1,5 @@
 {
-  "name": "ai-prefetch",
+  "name": "@lxgicstudios/ai-prefetch",
   "version": "1.0.0",
   "description": "AI-powered prefetch optimizer - smart resource hints with GPT analysis",
   "main": "dist/index.js",
