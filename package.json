@@ -8,7 +8,7 @@
     "ai-prefetch": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,13 +32,15 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-prefetch",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-prefetch",
   "keywords": [
     "prefetch",
     "preload",
     "performance",
     "resource-hints",
-    "page-speed"
+    "page-speed",
+    "crawl-budget",
+    "mobile-first"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -49,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-prefetch"
   },
   "scripts": {
