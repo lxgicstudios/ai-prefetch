@@ -40,7 +40,9 @@
     "resource-hints",
     "page-speed",
     "crawl-budget",
-    "mobile-first"
+    "mobile-first",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
